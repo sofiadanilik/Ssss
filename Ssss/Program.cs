@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, this is updated version from Sofiia on GitHub!");
+            Console.WriteLine("New update from Sofiia (local)!");
         }
     }
 }
